@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paarth
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python, C++ , HTML and CSS.
-- 💞️ I’m looking to collaborate on Python and Mysql associated projects.
+- 💞️ I’m looking to collaborate on Python , C and Mysql associated projects.
 - 📫 How to reach me singh.paarth10@gmail.com 
 
 <!---
