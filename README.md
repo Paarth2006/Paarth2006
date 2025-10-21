@@ -52,7 +52,6 @@ I'm a passionate developer focused on building seamless experiences, from sleek 
 <!-- Animated Separator -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpdTFvbm16b3J2aXN1ZzJ2eXUybHJtY2U4c3M0Nmh4ZjdsdTRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ie12v5wprxG1k68jW5/giphy.gif" width="80%" />
 </p>
 
 <!-- Connect with Me Section -->
