@@ -1,5 +1,8 @@
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+My+Name+is+Paarth+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+My+Name+is+Paarth+)](https://git.io/typing-svg)
+
+
 [![Paarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paarth2006&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paarth2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a developer with a passion for building full-stack applications, from sleek mobile front-ends to robust cloud back-ends.
