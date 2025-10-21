@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Paarth+%F0%9F%91%8B;I+build+for+iOS+and+the+Cloud;SwiftUI+%7C+Python+%7C+AWS+%7C+MySQL" alt="Typing SVG" />
+
 </a>
 </p>
 
@@ -15,7 +15,7 @@ I'm a passionate developer focused on building seamless experiences, from sleek 
 <!-- Animated Separator -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpdTFvbm16b3J2aXN1ZzJ2eXUybHJtY2U4c3M0Nmh4ZjdsdTRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ie12v5wprxG1k68jW5/giphy.gif" width="80%" />
+
 </p>
 
 <!-- Skills Section -->
@@ -23,7 +23,7 @@ I'm a passionate developer focused on building seamless experiences, from sleek 
 <h3 align="center">🛠️ My Tech Stack & Tools</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,python,flask,mysql,aws,s3,ec2,git,github,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,python,flask,mysql,aws,s3,ec2,git,github,docker&perline=6" /
 </a>
 </p>
 
