@@ -37,16 +37,10 @@ I'm a passionate developer focused on building seamless experiences, from sleek 
 </a>
 
 
-
-
-
 <!-- Top Languages Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paarth2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </a>
-
-
-
 
 
 <!-- GitHub Streak Card -->
@@ -68,7 +62,7 @@ I'm a passionate developer focused on building seamless experiences, from sleek 
 <a href="https://www.linkedin.com/in/paarth-singh-a98712229/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/paarthsingh" target="_blank">
+<a href="https://x.com/paarthsingh_" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/>
 </a>
 <a href="mailto:singh.paarth10@gmail.com">
