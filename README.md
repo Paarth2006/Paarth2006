@@ -22,7 +22,7 @@
 <h3 align="center">🛠️ My Tech Stack & Tools</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=swift,xcode,python,flask,mysql,aws,s3,ec2,git,github,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=swift,python,flask,mysql,aws,s3,ec2,git,github,docker&perline=6" />
 </a>
 </p>
 
