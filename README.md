@@ -4,7 +4,7 @@
 
 I'm a developer with a passion for building full-stack applications, from sleek mobile front-ends to robust cloud back-ends.
 
-- 🔭 I’m currently working on an iOS app using **SwiftUI** that connects to a **Python** backend.
+- 🔭 I’m currently working on an iOS app using **SwiftUI** that connects to a **Swift** backend.
 - 🌱 I’m currently deepening my skills in **AWS** services like Lambda and RDS for serverless applications.
 - 👯 I’m looking to collaborate on open-source projects involving **Python**, **MySQL**, or **SwiftUI**.
 - 💬 Ask me about building mobile apps, setting up cloud infrastructure, or database design!
