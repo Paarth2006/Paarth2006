@@ -9,7 +9,7 @@
 <!-- Introduction Section -->
 
 <p align="center">
-<comment-tag id="1">I'm a passionate developer focused on building seamless experiences, from sleek mobile front-ends with SwiftUI to scalable back-end solutions on AWS.</comment-tag id="1">
+<comment-tag id="1">I'm a passionate developer focused on building seamless experiences, from sleek mobile front-ends to scalable back-end solutions.</comment-tag id="1">
 </p>
 <!-- Animated Separator -->
 
@@ -22,7 +22,7 @@
 <h3 align="center">🛠️ My Tech Stack & Tools</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=swift,python,flask,mysql,aws,s3,ec2,git,github,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=swift,python,flask,mysql,aws,s3,ec2,git,github,docker,kotlin,kotlin multiplaform&perline=6" />
 </a>
 </p>
 
