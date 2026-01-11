@@ -26,28 +26,6 @@
 </a>
 </p>
 
-<!-- GitHub Stats Section -->
-
-<h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-<!-- GitHub Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Paarth2006&show_icons=true&theme=radical&icon_color=30A3DC&hide_border=true" alt="Paarth's GitHub stats" />
-</a>
-
-
-<!-- Top Languages Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paarth2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</a>
-
-
-<!-- GitHub Streak Card -->
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com/?user=Paarth2006&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
-</p>
-
 <!-- Animated Separator -->
 
 <p align="center">
